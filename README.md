@@ -1,4 +1,4 @@
-# [Data Visualization Portfolio](https://github.com/Barrychen825/chen-portfolio)
+# [Data Visualization Portfolio](https://barrychen825.github.io/chen-portfolio/)
 # Shule (Barry) Chen's page
 ## About me 
 I am Shule (Barry) Chen, a 2nd year MSPPM graduate student at Heinz College, Carnegie Mellon University. 
