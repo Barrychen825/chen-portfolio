@@ -8,7 +8,7 @@ Plans after graduation includes getting a job, although where and what are still
 ## What I hope to learn
 According to my peers, my data presentation was a chore to read through, so I hope to learn how to make my data visually accessible.
 ## Portfolio
-[Dataviz1](/Dataviz1.md)  
-[Dataviz2](/General_Government_Debt.md)  
-[Dataviz3](/General_gov_debt_2.md)  
-[Back to portfolio homepage](https://barrychen825.github.io/chen-portfolio/)
+[Data Explanation](/Data_explanation.md)  
+[OECD Bar Chart](/Dataviz1.md)  
+[Beesworm](/General_Government_Debt.md)  
+[Streamgraphs](/General_gov_debt_2.md)  
