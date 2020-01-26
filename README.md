@@ -9,8 +9,4 @@ Plans after graduation includes getting a job, although where and what are still
 According to my peers, my data presentation was a chore to read through, so I hope to learn how to make my data visually accessible.
 ## Portfolio
 [Dataviz1](/Dataviz1.md)
-
-## Data Visualization
-
-<iframe src="https://data.oecd.org/chart/5Pey" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</iframe>
-
+[Dataviz2](/General Government Debt.md)
