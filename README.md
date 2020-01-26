@@ -1,4 +1,4 @@
-# chen-portfolio
+# Data Visualization Portfolio
 # Shule (Barry) Chen's page
 ## About me 
 I am Shule (Barry) Chen, a 2nd year MSPPM graduate student at Heinz College, Carnegie Mellon University. 
