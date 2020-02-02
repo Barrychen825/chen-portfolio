@@ -1,3 +1,5 @@
+# Redesign "Why do people keep dogs in China" Chart for better visualization
+  
 ![data1](Dog_viz_org.jpg)
   
 The original visualization was published on CNN, and was widely used (https://www.nbc-2.com/story/29376304/dog-lovers-and-dog-eaters-square-off-at-chinas-yulin-festival). As someone who oppose eating dogs, I find this chart not informative enough to communicate with its audeince, which are those who care about people fighting for the ethical treatment of dogs in China. This chart has some pros and cons, so I will identify them, and redeisgn one.
