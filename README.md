@@ -13,3 +13,4 @@ According to my peers, my data presentation was a chore to read through, so I ho
 [OECD Bar Chart](/Dataviz1.md)  
 [Beesworm](/General_Government_Debt.md)  
 [Streamgraphs](/General_gov_debt_2.md)  
+[Dog_data_visualization](/Dog_stat.md)
