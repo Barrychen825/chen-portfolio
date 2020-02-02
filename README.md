@@ -12,5 +12,7 @@ According to my peers, my data presentation was a chore to read through, so I ho
 [Data Explanation](/Data_explanation.md)  
 [OECD Bar Chart](/Dataviz1.md)  
 [Beesworm](/General_Government_Debt.md)  
-[Streamgraphs](/General_gov_debt_2.md)  
+[Streamgraphs](/General_gov_debt_2.md) 
+  
+### Redesign Existing Data Visualization  
 [Dog_data_visualization](/Dog_stat.md)
