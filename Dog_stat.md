@@ -1,4 +1,4 @@
-# Redesign "Why do people keep dogs in China" Chart for better visualization
+# Redesign "Why eople keep dogs in China" Chart for better visualization
   
 ![data1](Dog_viz_org.jpg)
   
