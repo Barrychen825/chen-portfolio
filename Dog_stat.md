@@ -9,9 +9,28 @@ Pros:
 The icons look nice. You can rarely see "pot" icon in a chart about dogs.  
 
 How I planned to redesign it:  
+I tried three alternatives. 
+  
+The first was a bar chart putting all groups on X-Axis, and respective values on Y-Axis. Paint "Guard", "companionship" and "for fun" in blue, while painting "to eat" in red. Painting "to eat" in red will make it standout, and placing the "pot" icon on the bar will force people to connect "dog" with "food" to trigger their sympathy. Other bars are left light grey to blur into the background so they do not interfere with the main narrative, which is depicting the existance of "keeping dogs to eat".
+  
+The Second was a Beeswarm, but after I wireframe it I found it frustrating to look at, so I ditch this plan on the spot.
+  
+The third was a horizontal stacked bar chart. The color scheme is the same as the normal bar chart.
 
+Feedbacks:  
+I showed some of my friends the first and third alternatives, and ask for their first reaction.
+  
+All of them told me that the stacked bar chart makes no sense as there is no time series comparison.
+  
+Some of them told me that they take issue with painting "for fun" blue. According to their statements, "for fun" sometimes have twisted meanings, for example, "animal abuse" sometimes can be considered "for fun" by some twisted people, so I would better leave it grey.
+  
+One reviewer said that I should paint "guard" and "companionship" in two different blue instead of one, but others said that it is fine.
 
-
+Final Visual:
+  
+Why Do People Keep Dogs in China
 ![data2](data_viz.jpg)
-
+  
+P.S. Blue color code is #66ccff, and red color code is #ee0000. Because I like those two color tones.
+  
 [Back to portfolio homepage](https://barrychen825.github.io/chen-portfolio/)
