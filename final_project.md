@@ -36,7 +36,7 @@
   Since shorthand is great for storytelling, I will use shorthand to create a web page that dedicated to advertise the usage of mask for personal protection.  
   For PM2.5 graph, I will use rawgraph for the beesworm.  
   For Influenza graph, as I do not think that we have covered how to make GIF in class, I will try to make it using Photoshop.  
-  For color, I will use colorbrewer to make sure that all people can identify all colors in my graphs with ease.
+  For color, I will use colorbrewer to make sure that all people can identify all colors in my graphs with ease.  
   
   
 [Back to portfolio homepage](https://barrychen825.github.io/chen-portfolio/)
