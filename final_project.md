@@ -1,7 +1,7 @@
-# What happens if you walk around with naked face (WIP)
+# Don't run around naked, put a mask on at least (WIP)
   **Part 1: Proposal**   
   **Statement:**     
-  What happens if you walk around with naked face (WIP)  
+  Don't run around naked, put a mask on at least (WIP)  
   **Audience:**   
   People living in Pittsburgh, who care about their own health  
   **Purpose:**   
