@@ -19,6 +19,7 @@
   ![data3](influenza_sketch.png)    
   Present how droplet infection works, preferably with video.  
   Present procedure mask, emphasizing its ability to prevent germ from drop let infection with price much less than that of N95.  
+  Present health care spending related to PM2.5 and influenza for a final push. _**(Still need data)**_  
   
   **Data:**  
   **Data Link:**   
