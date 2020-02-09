@@ -5,7 +5,7 @@
   **Audience:**   
   People living in Pittsburgh, who care about their own health  
   **Purpose:**   
-  Get people to wear mask/N95 respirator during winter  
+  Get people to wear procedure mask/N95 respirator during winter  
   **Summary:**   
   Pittsburgh's air quality has been one of the worst among cities in the nation. PM2.5 plays an important role in pollution, especially during winter. Influenza, which uses droplet infection to spread, will occure during winter as well. Wearing N95 respirator during winter, therefore, will not only protect people's lung from PM2.5, but also prevent influenza infection.  
     
