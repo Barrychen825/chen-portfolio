@@ -22,8 +22,8 @@
   Present health care spending related to PM2.5 and influenza for a final push. _**(Still need data)**_  
   
   **Data:**  
-  [PM2.5](pit pm2.5.csv)  
-  [Influenza](influenza map.csv)  
+  [PM2.5](https://github.com/Barrychen825/chen-portfolio/blob/master/pit%20pm2.5.csv)  
+  [Influenza](https://github.com/Barrychen825/chen-portfolio/blob/master/Influenza%20map.csv)  
   **Data Link:**   
   https://www.epa.gov/outdoor-air-quality-data/download-daily-data (PM2.5)  
   https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap (influenza spreading)  
