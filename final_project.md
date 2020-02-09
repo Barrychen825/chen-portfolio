@@ -23,7 +23,7 @@
   
   **Data:**  
   [PM2.5](https://github.com/Barrychen825/chen-portfolio/blob/master/pit%20pm2.5.csv)  
-  This PM2.5 dataset contains the daily PM2.5 value of pittsburgh across multiple measuring stations. I would like to create a beesworm graph with this dataset. I tried it, and it showed great result, but some station with insufficient amount of observations may need to be cleared out, so the final result will be both umbiased and look good.  
+  The dataset was extracted from United States Environmental Protection Agency (EPA). This PM2.5 dataset contains the daily PM2.5 value of pittsburgh across multiple measuring stations. I would like to create a beesworm graph with this dataset. I tried it, and it showed great result, but some station with insufficient amount of observations may need to be cleared out, so the final result will be both umbiased and look good.  
     
   [Influenza](https://github.com/Barrychen825/chen-portfolio/blob/master/Influenza%20map.csv)  
   This influenza dataset was extracted from Center for Disease Control and Prevention, and the website has already used it to produce an US map that change as viewers move the slider. I, however, want to take a step further to make the dataset into a animated graph that automatically change the color of each state, gradually. Therefore, it not only will be easy and beautiful to look at, but also be a work of my own, instead of someone else.  
@@ -33,7 +33,7 @@
   https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap (influenza spreading)  
     
   **Method:**  
-  Shorthand, with embeded images and videos
+  Since shorthand is great for storytelling, I will use shorthand to create a web page that dedicated to advertise the usage of mask for personal protection.
   
   
   
