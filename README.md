@@ -18,4 +18,4 @@ According to my peers, my data presentation was a chore to read through, so I ho
 [Dog_data_visualization](/Dog_stat.md)
   
 ### Data Visualization Project
-[What happens if you walk around with naked face](/final_project.md)
+[Don't run around naked, put a mask on at least](/final_project.md)
