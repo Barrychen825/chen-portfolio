@@ -18,4 +18,5 @@ According to my peers, my data presentation was a chore to read through, so I ho
 [Dog_data_visualization](/Dog_stat.md)
   
 ### Data Visualization Project
-[Don't run around naked, put a mask on at least](/final_project.md)
+[Part I: Outline, Sketches, Data, and Data Sources](/final_project.md)  
+[Part II: Wireframe/Storyboard and user feedback](/final_project2.md)
