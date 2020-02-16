@@ -11,18 +11,16 @@
     
     
   **Outline and sketches:**  
-  Start with COVID-19 story, showing how fast it is spreading  
+  Start with COVID-19 story, showing how fast it is spreading across the world  
   Present the spreading of COVID-19 in a GIF, preferably.  
-  
+  Emphasize that N95 can filter out 95% of particles in the air so it significantly lowers the chance of wearer being infected by any droplet infection disease like COVID-19 and influenza.  
+  Put in a connection sentence linking COVID-19 to PM2.5 (ie. Besides epidemics, which seem quite deviated from our daily life, N95 also protects you from something that you will encounter everyday. The PM2.5)  
   Explain what is PM2.5, using picture if possible.  
   Use Beeswarm graph to show PM2.5 level in Pittsburgh through 2019. (Data visualization)  
   ![data2](beesworm_sketch.png)  
+  Present the annal extra spending due to PM2.5 
   Present N95 respirator, emphasizing its ability to filter out PM2.5 particles.  
-  Present influenza graph on a US map, with animation describing how influenza spread in the nation. (Data visualization)  
-  ![data3](influenza_sketch.png)    
-  Present how droplet infection works, preferably with video.  
-  Present procedure mask, emphasizing its ability to prevent germ from drop let infection with price much less than that of N95.  
-  Present health care spending related to PM2.5 and influenza for a final push. _**(Still need data)**_  
+ 
   
   **Data:**  
   [PM2.5](https://github.com/Barrychen825/chen-portfolio/blob/master/pit%20pm2.5.csv)  
@@ -35,6 +33,9 @@
   https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data (COVID-2019)  
   https://www.epa.gov/outdoor-air-quality-data/download-daily-data (PM2.5)  
   https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap (influenza spreading)  
+  https://www.rand.org/pubs/periodicals/health-quarterly/issues/v2/n3/06.html (PM2.5 spending)  
+  https://laqm.defra.gov.uk/public-health/pm25.html (PM2.5 qualitative description)  
+  http://www.cec.org/sites/default/napp/en/north-american-emissions/emissions/pm2_5/pm2_5.php (PM2.5 Plant)  
     
   **Method:**  
   Since shorthand is great for storytelling, I will use shorthand to create a web page that dedicated to advertise the usage of mask for personal protection.  
