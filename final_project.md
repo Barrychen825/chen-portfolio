@@ -11,6 +11,9 @@
     
     
   **Outline and sketches:**  
+  Start with COVID-19 story, showing how fast it is spreading  
+  Present the spreading of COVID-19 in a GIF, preferably.  
+  
   Explain what is PM2.5, using picture if possible.  
   Use Beeswarm graph to show PM2.5 level in Pittsburgh through 2019. (Data visualization)  
   ![data2](beesworm_sketch.png)  
@@ -29,6 +32,7 @@
   This influenza dataset was extracted from Center for Disease Control and Prevention, and the website has already used it to produce an US map that change as viewers move the slider. I, however, want to take a step further to make the dataset into a animated graph that automatically change the color of each state, gradually. Therefore, it not only will be easy and beautiful to look at, but also be a work of my own, instead of someone else.  
       
   **Data Link:**   
+  https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data (COVID-2019)  
   https://www.epa.gov/outdoor-air-quality-data/download-daily-data (PM2.5)  
   https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap (influenza spreading)  
     
