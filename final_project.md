@@ -11,15 +11,18 @@
     
     
   **Outline and sketches:**  
-  Start with COVID-19 story, showing how fast it is spreading across the world  
-  Present the spreading of COVID-19 in a GIF, preferably.  
-  Emphasize that N95 can filter out 95% of particles in the air so it significantly lowers the chance of wearer being infected by any droplet infection disease like COVID-19 and influenza.  
-  Put in a connection sentence linking COVID-19 to PM2.5 (ie. Besides epidemics, which seem quite deviated from our daily life, N95 also protects you from something that you will encounter everyday. The PM2.5)  
-  Explain what is PM2.5, using picture if possible.  
+  Start with annual extra spending on health due to PM2.5  
+  Explain what is PM2.5 and explain PM2.5 effects on body, using pictures.  
+  Present PM2.5 concentration across US  
   Use Beeswarm graph to show PM2.5 level in Pittsburgh through 2019. (Data visualization)  
   ![data2](beesworm_sketch.png)  
-  Present the annal extra spending due to PM2.5 
-  Present N95 respirator, emphasizing its ability to filter out PM2.5 particles.  
+  Connection sentence: Although PM2.5 will significantly affect your health condition, it is a long term influence with barely identifiable traits at present. There are other "small" things that can destroy your health in a short time.  
+  Present COVID-19 story, showing how fast it is spreading across the world  
+  Present the spreading of COVID-19 in a GIF, preferably.  
+  Connecting sentence: On the other hand, influenza has been spreading through US over the past few months and has caused 13 million illness, and about 6600 influenza related death.  
+  Present spreading of influenza through US via GIF  
+  Connecting sentence: If people have worn respirator through winter, both diseases would have infected much fewer people.  
+  Emphasize that N95 can filter out 95% of particles in the air so it significantly lowers the chance of wearer being infected by any droplet infection disease like COVID-19 and influenza.   
  
   
   **Data:**  
