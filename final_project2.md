@@ -19,9 +19,12 @@
   1. The answers are blurry as most of them mentioned that it is unnecessary. One person said that it is too expensive to use one N95 repirator per day.  
   2. All of them know that COVID-19 is spreading wildly, but none of them know neither influenza's spreading nor PM2.5 induced health spending.  Only 1 person did not know N95's utility.  
   3. They all said that I want to persuade people to wear N95 respirator. This is not exactly accurate as I want people to wear N95 respirator during winter.  
-  4. Some said that the "story" is not really a story, and it is merely spitting out facts. And since COVID-19 is far from US, and influenza has vaccination, then why do they need to wear respirator? One person stated that I present the most serious COVID-19 first, and then claims that it is not important, weakens the persuasion. Therefore, I would consider to move the PM2.5 to the beginning, and then present the epidemic.  
+  4. Some said that the "story" is not really a story, and it is merely spitting out facts. And since COVID-19 is far from US, and influenza has vaccination, then why do they need to wear respirator? One person stated that I present the most serious COVID-19 first, and then claims that it is not important, weakens the persuasion.  
   5. Respirator  
-  6. The person in Irvine, California still says that it is unnecessary to wear respirator because nothing is affecting Irvine, and she has taken a flu vaccin shot. So maybe I need to change the call to action to include some restrictions (ie. in places with higher than 50ug/m3 PM2.5 concentration). 
+  6. The person in Irvine, California still says that it is unnecessary to wear respirator because nothing is affecting Irvine, and she has taken a flu vaccination shot. The international student in Heinz said that he still will not wear N95 because there is no source of COVID-19 in Pittsburgh, and he is afraid of being discriminated against according to multiple news coverage of people discriminating against Chinese wearing respirators.  
+    
+  Building on the feedbacks, I altered my storyboard as follows:  
+  I move the PM2.5 to the beginning, and present the health spending first to grab attention, and present PM2.5's damage to body using pictures to enhance my points. 
   
   
   
