@@ -5,7 +5,7 @@
   **Audience:**   
   People living on planet Earth, who care about their own health  
   **Purpose:**   
-  Get people to wear procedure mask/N95 respirator during winter  
+  Get people to wear procedure N95 respirator for self-protection against epidemic and PM2.5  
   **Summary:**   
   PM2.5 has caused massive additional spending in hospital, and epidemics like influenza and COVID-19 (coronavirus) have caused massive infection and mortality. Therefore, wearing a N95 respirator will not only protect you from spending extra dollar in hospital, but also protect you from risk of dying.
     
