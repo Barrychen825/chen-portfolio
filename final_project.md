@@ -9,17 +9,17 @@
     
     
   **Outline and sketches:**  
-  Start with annual extra spending on health due to PM2.5  
+  Introduce N95 respirator.  
   Explain what is PM2.5 and explain PM2.5 effects on body, using pictures.  
-  Present PM2.5 concentration across US  
-  Use Beeswarm graph to show PM2.5 level in Pittsburgh through 2019. (Data visualization)  
-  ![data2](beesworm_sketch.png)  
-  Connection sentence: Although PM2.5 will significantly affect your health condition, it is a long term influence with barely identifiable traits at present. There are other "small" things that can destroy your health in a short time.  
+  Present annual spending due to PM2.5 comparison between older than 65 and lower than 65.  
+  Connection sentence: Other than PM2.5, epidemics frequently aim at elderly people, and it is much difficult for elderly people to recover from epidemics.  
   Present COVID-19 story, showing how fast it is spreading across the world  
-  Present the spreading of COVID-19 in a GIF, preferably.  
+  Present the spreading of COVID-19 in a GIF, emphasizing how fast it was to present the idea of wearing N95 on daily basis to avoid getting suprise infected.  
+  Present COVID-19's infection across age groups, emphasizing how elderly people are more likely to be infected.  
+  Present COVID-19's mortality rate across age groups, emphasizing how it is more difficult for elderly people to recover from epidemic.  
   Connecting sentence: On the other hand, influenza has been spreading through US over the past few months and has caused 13 million illness, and about 6600 influenza related death.  
   Present spreading of influenza through US via GIF  
-  Connecting sentence: If people have worn respirator through winter, both diseases would have infected much fewer people.  
+  Connecting sentence: If elderly people worn respirator through winter on daily basis, their life expectancy would be increased significantly.  
   Emphasize that N95 can filter out 95% of particles in the air so it significantly lowers the chance of wearer being infected by any droplet infection disease like COVID-19 and influenza.   
  
   
