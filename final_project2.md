@@ -22,9 +22,12 @@
   4. Some said that the "story" is not really a story, and it is merely spitting out facts. And since COVID-19 is far from US, and influenza has vaccination, then why do they need to wear respirator? One person stated that I present the most serious COVID-19 first, and then claims that it is not important, weakens the persuasion.  
   5. Respirator  
   6. The person in Irvine, California still says that it is unnecessary to wear respirator because nothing is affecting Irvine, and Irvine is too hot to get a flu. The international student in Heinz said that he still will not wear N95 because there is no source of COVID-19 in Pittsburgh, and he is afraid of being discriminated against according to multiple news coverage of people discriminating against Chinese wearing respirators.  
+  
+  On Feburary 18th, I had an extensive conversation with the person working at pharmaceutical lab, and I have overhauled the entire outline and wireframe to make it much more informative and logical. (Wireframe in progress)  
     
   Building on the feedbacks, I altered my storyboard as follows:  
-  For call to action, I explicitly stated "in winter" so the influenza becomes a valid benefit. I stopped trying to create literal story, and start a new storyboard to explicitly advertise the N95 respirator. I move the PM2.5 section to the first part. The more serious reasons for wearing respirators are moved behind so the seriousness gradually increases in the story. Sections are not really changed, but rather moved around in a different frame to make more sense.  
+  The purpose is still "getting people to wear N95 respirator", but I have narrowed down my audience to elderly people over 65 years old, so I put the age range into the call to action.  
+  I put emphasis on mortality and extra health spending to get elderly people's attention because those are what they care about.  
   
   
   
