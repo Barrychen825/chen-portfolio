@@ -40,7 +40,7 @@
   PM2.5 concentration
   ![data3](PM2.5_world.png)  
   COVID-19 spreading  
-  ![data4](COVID_Map.png)  
+  ![data4](COVID_Map.gif)  
   Influenza spreading  
-  ![data5](Influenza_Map.png)    
+  ![data5](Influenza_Map.gif)    
 [Back to portfolio homepage](https://barrychen825.github.io/chen-portfolio/)
