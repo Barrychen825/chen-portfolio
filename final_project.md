@@ -1,13 +1,11 @@
-# Don't run around naked, put a mask on at least (WIP)
+# Wear a cheap mask to increase life expectancy (WIP)
   **Part 1: Proposal**   
   **Call to action:**     
-  Wear N95 respirator for self-protection (WIP)  
+  Elderly people should wear N95 respirator during winter for self-protection (WIP)  
   **Audience:**   
-  People living on planet Earth, who care about their own health  
-  **Purpose:**   
-  Get people to wear procedure N95 respirator for self-protection against epidemic and PM2.5  
+  People older than 65 years old     
   **Summary:**   
-  PM2.5 has caused massive additional spending in hospital, and epidemics like influenza and COVID-19 (coronavirus) have caused massive infection and mortality. Therefore, wearing a N95 respirator will not only protect you from spending extra dollar in hospital, but also protect you from risk of dying.
+  PM2.5 has caused massive additional spending in hospital, and epidemics like influenza and COVID-19 (coronavirus) have caused massive infection and mortality. Therefore, wearing a N95 respirator will not only protect you from spending extra dollar in hospital, but also protect you from risk of dying.  
     
     
   **Outline and sketches:**  
