@@ -36,4 +36,11 @@
   
   
   ![data2](storyboard_3.png)  
+  Related graphs  
+  PM2.5 concentration
+  ![data3](PM2.5_world.png)  
+  COVID-19 spreading  
+  ![data4](COVID_Map.png)  
+  Influenza spreading  
+  ![data5](Influenza_Map.png)    
 [Back to portfolio homepage](https://barrychen825.github.io/chen-portfolio/)
