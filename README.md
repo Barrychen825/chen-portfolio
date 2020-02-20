@@ -17,6 +17,7 @@ According to my peers, my data presentation was a chore to read through, so I ho
 ### Redesign Existing Data Visualization  
 [Dog_data_visualization](/Dog_stat.md)
   
-### Data Visualization Project
+### Data Visualization Project: One Mask to Filter Them All
 [Part I: Outline, Sketches, Data, and Data Sources](/final_project.md)  
-[Part II: Wireframe/Storyboard and user feedback](/final_project2.md)
+[Part II: Wireframe/Storyboard and user feedback](/final_project2.md)  
+[Final Project](https://carnegiemellon.shorthandstories.com/one-mask-to-filter-them-all/index.html)
