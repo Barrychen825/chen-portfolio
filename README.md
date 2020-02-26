@@ -20,4 +20,5 @@ According to my peers, my data presentation was a chore to read through, so I ho
 ### Data Visualization Project: One Mask to Filter Them All
 [Part I: Outline, Sketches, Data, and Data Sources](/final_project.md)  
 [Part II: Wireframe/Storyboard and user feedback](/final_project2.md)  
+[Part III: Executive Summary](/final_project3.md)  
 [Final Project](https://carnegiemellon.shorthandstories.com/one-mask-to-filter-them-all/index.html)
