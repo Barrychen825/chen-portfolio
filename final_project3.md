@@ -1,4 +1,5 @@
 ## Data Story  
+[Final Project](https://carnegiemellon.shorthandstories.com/one-mask-to-filter-them-all/index.html)  
   
   The intended audience for the project was, originally, general people who do not wear mask. After the wireframe feedbacks, I narrowed the scope to "general people who do not wear mask in winter". Right after this change, I had an extensive talk with a friend of mine who works at a pharmaceutical lab, and, based on her advice, I narrowed the scope further down to "people over 65-year-old who do not wear mask in winter".  
     
