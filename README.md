@@ -24,4 +24,4 @@ According to my peers, my data presentation was a chore to read through, so I ho
 [Final Project](https://carnegiemellon.shorthandstories.com/one-mask-to-filter-them-all/index.html)
     
 ### Custom Map  
-[Custom Map](/custom_map.md)  
+[Custom Map](/custom_map.html)  
